@@ -1,2 +1,4 @@
-# Mi-primer-repositorio
-Proyecto de pratica grado 11
+# mi primer repositorio
+Nombre:stiven muñeton
+curso: Grado 11*1
+institucion:I.E Donmatias
